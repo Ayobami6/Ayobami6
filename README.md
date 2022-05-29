@@ -6,7 +6,7 @@ I Studied statistics in college it's why I'm so passionate about data and machin
 
 Skills: Ms Excel, Data Analytics, Python, Rstudio, IBM Spss, Tableau, SQL 
 
-- 🔭 I’m currently working on EDA Project in banking Industry  
+- 🔭 I’m currently working on Machine Learning Loan_Prediction  
 - 🌱 I’m currently learning Tigergraph  
 - 👯 I’m looking to collaborate on Machine Learning project 
 - 💬 Ask me about Data Analysis, Python, Data Visualization, machine learning 
