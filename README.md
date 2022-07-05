@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Ayobami Alaran 
-#### A passionate Data Scientist enthusiast and Analyst from Nigeria 
+#### A passionate Data Science Enthusiast and Analyst from Nigeria 
 ![A passionate Data Scientist and Analyst from Nigeria ](https://pbs.twimg.com/profile_banners/1403660854193803267/1650353181/1080x360)
 
 I Studied statistics in college it's why I'm so passionate about data and machine learning
