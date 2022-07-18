@@ -1,5 +1,12 @@
-### Hi there 👋, I'm Ayobami Alaran 
-#### A passionate Data Science Enthusiast and Analyst from Nigeria 
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Ayobami6.Ayobami6">
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Ayobami+Alaran...;Nice+to+meet+you!&center=true&size=27">
+  </a>
+</h1>
+
+
 ![A passionate Data Scientist and Analyst from Nigeria ](https://pbs.twimg.com/profile_banners/1403660854193803267/1650353181/1080x360)
 
 I Studied statistics in college it's why I'm so passionate about data and machine learning
