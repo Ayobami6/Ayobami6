@@ -29,6 +29,7 @@ Skills: Ms Excel, Data Analytics, Python, Rstudio, IBM Spss, Tableau, SQL
   <a href="https://github.com/Ayobami6/ProjectCollaboration.github.io"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Ayobami6&repo=ProjectCollaboration.github.io&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="ProjectCollaboration.github.io"></a>
   <a href="https://github.com/Ayobami6/Data_Detective"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Ayobami6&repo=Data_Detective&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Data_Detective"></a>
   <a href="https://github.com/Ayobami6/Exploratory-Data-Analysis-in-Finance"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Ayobami6&repo=Exploratory-Data-Analysis-in-Finance&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Exploratory-Data-Analysis-in-Finance"></a>
+  <a href="https://github.com/Ayobami6/Youtube-Analysis"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Ayobami6&repo=Youtube-Analysis&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Data-Science-Youtube-Analysis"></a>
 </p>
 
 **Hands-On-Practice:**
