@@ -54,7 +54,7 @@ Skills: Ms Excel, Data Analytics, Python, Rstudio, IBM Spss, Tableau, SQL
 
 **Hands-On-Practice:**
 <p align="left">
-  <a href="https://github.com/Ayobami6/Hands-On-Practice"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Ayobami6&repo=Hands-On-Practice&theme=react&bg_color=483D8B&title_color=00CED1&icon_color=F8D866&hide_border=true&show_icons=false" alt="Hands-On-Practice"></a>
+  <a href="https://github.com/Ayobami6/Hands-On-Practice"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Ayobami6&repo=Hands-On-Practice&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Hands-On-Practice"></a>
 </p>
 
 
@@ -70,6 +70,12 @@ Skills: Ms Excel, Data Analytics, Python, Rstudio, IBM Spss, Tableau, SQL
   
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ayobami6&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/Ayobami6)  
+![GitHub metrics](https://metrics.lecoq.io/Ayobami6)
+  
+ <br/>  
+
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31ho2xjpfdxbdibf34brjmp67lru&cover_image=true&theme=default&show_offline=false&bar_color_cover=true" /></div>  
+
+<b
 
 ![Profile views](https://gpvc.arturio.dev/Ayobami6)  
