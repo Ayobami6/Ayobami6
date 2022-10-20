@@ -62,14 +62,14 @@ Skills: Ms Excel, Data Analytics, Python, Rstudio, IBM Spss, Tableau, SQL
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Ayobami6&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayobami6&theme=juicyfresh)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayobami6&theme=radical&langs_count=8&layout=compact&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayobami6&show_icons=true&count_private=true&theme=radical)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ayobami6&theme=radical)  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Ayobami6&theme=radical)](https://git.io/streak-stats) 
+  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ayobami6&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)  
 
 ![GitHub metrics](https://metrics.lecoq.io/Ayobami6)  
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Ayobami6&theme=radical)](https://git.io/streak-stats)
 
 ![Profile views](https://gpvc.arturio.dev/Ayobami6)  
