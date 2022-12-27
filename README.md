@@ -7,15 +7,15 @@
 </h1>
 
 
-![A passionate Data Scientist and Analyst from Nigeria ](https://pbs.twimg.com/profile_banners/1403660854193803267/1650353181/1080x360)
+![A passionate Data Scientist, Analyst and Software Engineer Trainee from Nigeria ](https://pbs.twimg.com/profile_banners/1403660854193803267/1650353181/1080x360)
 
 I Studied statistics in college it's why I'm so passionate about data and machine learning
 
 Skills: Ms Excel, Data Analytics, Python, Rstudio, IBM Spss, Tableau, SQL 
 
 - 🔭 I’m currently working on Forex Trading Algorithm  
-- 🌱 I’m currently learning Software Engineering  
-- 👯 I’m looking to collaborate on Machine Learning project and Ai
+- 🌱 I’m currently learning React for advance web development  
+- 👯 I’m looking to collaborate on Machine Learning project, AI and Software development
 - 💬 Ask me about Data Analysis, Python, Data Visualization, Machine learning 
 
 
