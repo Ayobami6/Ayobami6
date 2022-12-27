@@ -79,9 +79,10 @@ Skills: Ms Excel, Data Analytics, Python, Rstudio, IBM Spss, Tableau, SQL
   <a href="https://github.com/Ayobami6/Hands-On-Practice"><img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=Ayobami6&repo=Hands-On-Practice&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Hands-On-Practice"></a>
   <a href="https://github.com/Ayobami6/alx-low_level_programming"><img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=Ayobami6&repo=alx-low_level_programming&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="alx-low_level_programming"></a>
   <a href="https://github.com/Ayobami6/alx-system_engineering-devops"><img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=Ayobami6&repo=alx-system_engineering-devops&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="alx-system_engineering-devops"></a>
+  <a href="https://github.com/Ayobami6/CS50"><img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=Ayobami6&repo=CS50&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="CS50"></a>
 </p>
 
-**Contributed Projects**
+**Projects Contributed To**
 <p align="left">
 <a href="https://github.com/LOVE-DOCTOR/MultiTrain"><img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=LOVE-DOCTOR&repo=MultiTrain&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="MultiTrain"></a>
 <a href="https://github.com/Ayobami6/alaran-destiny"><img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=Ayobami6&repo=alaran-destiny&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="alaran-destiny"></a>
