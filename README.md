@@ -59,7 +59,7 @@ Skills: Ms Excel, Data Analytics, Python, Rstudio, IBM Spss, Tableau, SQL
 **Data Science and ML Case Study Projects:**
 
 <p align="left">
-<a href="https://github.com/Ayobami6/Youtube-Analysis"><img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=Ayobami6&repo=Youtube-Analysis&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Data-Science-Youtube-Analysis"></a>
+<a href="https://github.com/Ayobami6/Youtube-Analysis"><img width="350" src="https://github-readme-stats-plum-two.vercel.app/api/pin/?username=Ayobami6&repo=Youtube-Analysis&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Data-Science-Youtube-Analysis"></a>
   <a href="https://github.com/Ayobami6/Tweet-Data-Analysis"><img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=Ayobami6&repo=Tweet-Data-Analysis&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Tweet-Data-Analysis"></a>
     <a href="https://github.com/Ayobami6/Communicating_Findings_With_Viz"><img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=Ayobami6&repo=Communicating_Findings_With_Viz&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Communicating_Findings_With_Viz"></a>
   <a href="https://github.com/Ayobami6/ProjectCollaboration.github.io"><img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=Ayobami6&repo=ProjectCollaboration.github.io&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="ProjectCollaboration.github.io"></a>
