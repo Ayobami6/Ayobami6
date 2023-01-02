@@ -12,7 +12,7 @@ I Studied statistics in college it's why I'm so passionate about data and machin
 
 Skills: Ms Excel, Data Analytics, Python, Rstudio, IBM Spss, Tableau, SQL
 
-- 🔭 I’m currently working on Forex Trading Algorithm
+- 🔭 I’m currently working on My Porfolio website using React
 - 🌱 I’m currently learning React for advance web development
 - 👯 I’m looking to collaborate on Machine Learning project, AI and Software development
 - 💬 Ask me about Data Analysis, Python, Data Visualization, Machine learning
@@ -68,6 +68,7 @@ Skills: Ms Excel, Data Analytics, Python, Rstudio, IBM Spss, Tableau, SQL
 </p>
 
 **Sotware Development Projects:**
+
 <p align="left">
   <a href="https://github.com/Ayobami6/simple-shell"><img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=Ayobami6&repo=simple-shell&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="simple-shell"></a>
   <a href="https://github.com/Ayobami6/portfolio"><img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=Ayobami6&repo=portfolio&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="portfolio"></a>
@@ -83,6 +84,7 @@ Skills: Ms Excel, Data Analytics, Python, Rstudio, IBM Spss, Tableau, SQL
 </p>
 
 **Projects Contributed To**
+
 <p align="left">
 <a href="https://github.com/LOVE-DOCTOR/MultiTrain"><img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=LOVE-DOCTOR&repo=MultiTrain&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="MultiTrain"></a>
 <a href="https://github.com/Ayobami6/alaran-destiny"><img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=Ayobami6&repo=alaran-destiny&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="alaran-destiny"></a>
