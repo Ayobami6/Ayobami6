@@ -100,7 +100,7 @@ Skills: Ms Excel, Data Analytics, Python, Rstudio, IBM Spss, Tableau, SQL
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Ayobami6&theme=radical)](https://git.io/streak-stats)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ayobami6&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ayobami6&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)
 
 ![GitHub metrics](https://metrics.lecoq.io/Ayobami6)
 
