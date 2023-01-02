@@ -60,43 +60,43 @@ Skills: Ms Excel, Data Analytics, Python, Rstudio, IBM Spss, Tableau, SQL
 
 <p align="left">
 <a href="https://github.com/Ayobami6/Youtube-Analysis"><img width="350" src="https://github-readme-stats-plum-two.vercel.app/api/pin/?username=Ayobami6&repo=Youtube-Analysis&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Data-Science-Youtube-Analysis"></a>
-  <a href="https://github.com/Ayobami6/Tweet-Data-Analysis"><img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=Ayobami6&repo=Tweet-Data-Analysis&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Tweet-Data-Analysis"></a>
-    <a href="https://github.com/Ayobami6/Communicating_Findings_With_Viz"><img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=Ayobami6&repo=Communicating_Findings_With_Viz&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Communicating_Findings_With_Viz"></a>
-  <a href="https://github.com/Ayobami6/ProjectCollaboration.github.io"><img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=Ayobami6&repo=ProjectCollaboration.github.io&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="ProjectCollaboration.github.io"></a>
-  <a href="https://github.com/Ayobami6/Data_Detective"><img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=Ayobami6&repo=Data_Detective&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Data_Detective"></a>
-  <a href="https://github.com/Ayobami6/Exploratory-Data-Analysis-in-Finance"><img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=Ayobami6&repo=Exploratory-Data-Analysis-in-Finance&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Exploratory-Data-Analysis-in-Finance"></a>
+  <a href="https://github.com/Ayobami6/Tweet-Data-Analysis"><img width="350" src="https://github-readme-stats-plum-two.vercel.app/api/pin/?username=Ayobami6&repo=Tweet-Data-Analysis&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Tweet-Data-Analysis"></a>
+    <a href="https://github.com/Ayobami6/Communicating_Findings_With_Viz"><img width="350" src="https://github-readme-stats-plum-two.vercel.app/api/pin/?username=Ayobami6&repo=Communicating_Findings_With_Viz&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Communicating_Findings_With_Viz"></a>
+  <a href="https://github.com/Ayobami6/ProjectCollaboration.github.io"><img width="350" src="https://github-readme-stats-plum-two.vercel.app/api/pin/?username=Ayobami6&repo=ProjectCollaboration.github.io&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="ProjectCollaboration.github.io"></a>
+  <a href="https://github.com/Ayobami6/Data_Detective"><img width="350" src="https://github-readme-stats-plum-two.vercel.app/api/pin/?username=Ayobami6&repo=Data_Detective&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Data_Detective"></a>
+  <a href="https://github.com/Ayobami6/Exploratory-Data-Analysis-in-Finance"><img width="350" src="https://github-readme-stats-plum-two.vercel.app/api/pin/?username=Ayobami6&repo=Exploratory-Data-Analysis-in-Finance&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Exploratory-Data-Analysis-in-Finance"></a>
 </p>
 
 **Sotware Development Projects:**
 
 <p align="left">
-  <a href="https://github.com/Ayobami6/simple-shell"><img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=Ayobami6&repo=simple-shell&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="simple-shell"></a>
-  <a href="https://github.com/Ayobami6/portfolio"><img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=Ayobami6&repo=portfolio&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="portfolio"></a>
+  <a href="https://github.com/Ayobami6/simple-shell"><img width="350" src="https://github-readme-stats-plum-two.vercel.app/api/pin/?username=Ayobami6&repo=simple-shell&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="simple-shell"></a>
+  <a href="https://github.com/Ayobami6/portfolio"><img width="350" src="https://github-readme-stats-plum-two.vercel.app/api/pin/?username=Ayobami6&repo=portfolio&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="portfolio"></a>
 </p>
 
 **Hands-On-Practice:**
 
 <p align="left">
-  <a href="https://github.com/Ayobami6/Hands-On-Practice"><img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=Ayobami6&repo=Hands-On-Practice&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Hands-On-Practice"></a>
-  <a href="https://github.com/Ayobami6/alx-low_level_programming"><img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=Ayobami6&repo=alx-low_level_programming&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="alx-low_level_programming"></a>
-  <a href="https://github.com/Ayobami6/alx-system_engineering-devops"><img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=Ayobami6&repo=alx-system_engineering-devops&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="alx-system_engineering-devops"></a>
-  <a href="https://github.com/Ayobami6/CS50"><img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=Ayobami6&repo=CS50&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="CS50"></a>
+  <a href="https://github.com/Ayobami6/Hands-On-Practice"><img width="350" src="https://github-readme-stats-plum-two.vercel.app/api/pin/?username=Ayobami6&repo=Hands-On-Practice&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Hands-On-Practice"></a>
+  <a href="https://github.com/Ayobami6/alx-low_level_programming"><img width="350" src="https://github-readme-stats-plum-two.vercel.app/api/pin/?username=Ayobami6&repo=alx-low_level_programming&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="alx-low_level_programming"></a>
+  <a href="https://github.com/Ayobami6/alx-system_engineering-devops"><img width="350" src="https://github-readme-stats-plum-two.vercel.app/api/pin/?username=Ayobami6&repo=alx-system_engineering-devops&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="alx-system_engineering-devops"></a>
+  <a href="https://github.com/Ayobami6/CS50"><img width="350" src="https://github-readme-stats-plum-two.vercel.app/api/pin/?username=Ayobami6&repo=CS50&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="CS50"></a>
 </p>
 
 **Projects Contributed To**
 
 <p align="left">
-<a href="https://github.com/LOVE-DOCTOR/MultiTrain"><img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=LOVE-DOCTOR&repo=MultiTrain&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="MultiTrain"></a>
-<a href="https://github.com/Ayobami6/alaran-destiny"><img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=Ayobami6&repo=alaran-destiny&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="alaran-destiny"></a>
+<a href="https://github.com/LOVE-DOCTOR/MultiTrain"><img width="350" src="https://github-readme-stats-plum-two.vercel.app/api/pin/?username=LOVE-DOCTOR&repo=MultiTrain&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="MultiTrain"></a>
+<a href="https://github.com/Ayobami6/alaran-destiny"><img width="350" src="https://github-readme-stats-plum-two.vercel.app/api/pin/?username=Ayobami6&repo=alaran-destiny&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="alaran-destiny"></a>
 </p>
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Ayobami6&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayobami6&theme=radical&langs_count=8&layout=compact&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-plum-two.vercel.app/api/top-langs/?username=Ayobami6&theme=radical&langs_count=8&layout=compact&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayobami6&show_icons=true&count_private=true&theme=radical)
+![GitHub stats](https://github-readme-stats-plum-two.vercel.app/api?username=Ayobami6&show_icons=true&count_private=true&theme=radical)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Ayobami6&theme=radical)](https://git.io/streak-stats)
 
