@@ -94,7 +94,7 @@ Skills: Ms Excel, Data Analytics, Python, Rstudio, IBM Spss, Tableau, SQL
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Ayobami6&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats-plum-two.vercel.app/api/top-langs/?username=Ayobami6&theme=radical&langs_count=8&layout=compact&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-plum-two.vercel.app/api/top-langs/?username=Ayobami6&theme=radical&langs_count=8&layout=compact&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,HTML)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats-plum-two.vercel.app/api?username=Ayobami6&show_icons=true&count_private=true&theme=radical)
 
