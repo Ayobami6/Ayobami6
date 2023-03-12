@@ -12,7 +12,7 @@ I Studied statistics in college it's why I'm so passionate about data and machin
 
 Skills: Ms Excel, Data Analytics, Python, Rstudio, IBM Spss, Tableau, SQL
 
-- 🔭 I’m currently working on My Porfolio website using React
+- 🔭 I’m currently working on Python django project
 - 🌱 I’m currently learning React for advance web development
 - 👯 I’m looking to collaborate on Machine Learning project, AI and Software development
 - 💬 Ask me about Data Analysis, Python, Data Visualization, Machine learning
@@ -55,9 +55,10 @@ Skills: Ms Excel, Data Analytics, Python, Rstudio, IBM Spss, Tableau, SQL
 </div>
 
 # Main projects
-
-**Data Science and ML Case Study Projects:**
-
+<details>
+<summary>
+  <strong> Data Science and ML Case Study Projects: </strong>
+</summary>
 <p align="left">
 <a href="https://github.com/Ayobami6/Youtube-Analysis"><img width="350" src="https://github-readme-stats-plum-two.vercel.app/api/pin/?username=Ayobami6&repo=Youtube-Analysis&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Data-Science-Youtube-Analysis"></a>
   <a href="https://github.com/Ayobami6/Tweet-Data-Analysis"><img width="350" src="https://github-readme-stats-plum-two.vercel.app/api/pin/?username=Ayobami6&repo=Tweet-Data-Analysis&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Tweet-Data-Analysis"></a>
@@ -66,29 +67,42 @@ Skills: Ms Excel, Data Analytics, Python, Rstudio, IBM Spss, Tableau, SQL
   <a href="https://github.com/Ayobami6/Data_Detective"><img width="350" src="https://github-readme-stats-plum-two.vercel.app/api/pin/?username=Ayobami6&repo=Data_Detective&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Data_Detective"></a>
   <a href="https://github.com/Ayobami6/Exploratory-Data-Analysis-in-Finance"><img width="350" src="https://github-readme-stats-plum-two.vercel.app/api/pin/?username=Ayobami6&repo=Exploratory-Data-Analysis-in-Finance&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Exploratory-Data-Analysis-in-Finance"></a>
 </p>
+  </details>
 
-**Sotware Development Projects:**
-
+<details>
+<summary>
+<strong>Sotware Development Projects:</strong>
+</summary>
 <p align="left">
   <a href="https://github.com/Ayobami6/simple-shell"><img width="350" src="https://github-readme-stats-plum-two.vercel.app/api/pin/?username=Ayobami6&repo=simple-shell&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="simple-shell"></a>
-  <a href="https://github.com/Ayobami6/portfolio"><img width="350" src="https://github-readme-stats-plum-two.vercel.app/api/pin/?username=Ayobami6&repo=portfolio&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="portfolio"></a>
+  <a href="https://github.com/Ayobami6/peers"><img width="350" src="https://github-readme-stats-plum-two.vercel.app/api/pin/?username=Ayobami6&repo=peers&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="peers"></a>
 </p>
+  </details>
 
-**Hands-On-Practice:**
-
+  
+<details>
+<summary>
+<strong>Hands-On-Practice:</strong>
+</summary>
 <p align="left">
   <a href="https://github.com/Ayobami6/Hands-On-Practice"><img width="350" src="https://github-readme-stats-plum-two.vercel.app/api/pin/?username=Ayobami6&repo=Hands-On-Practice&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Hands-On-Practice"></a>
   <a href="https://github.com/Ayobami6/alx-low_level_programming"><img width="350" src="https://github-readme-stats-plum-two.vercel.app/api/pin/?username=Ayobami6&repo=alx-low_level_programming&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="alx-low_level_programming"></a>
   <a href="https://github.com/Ayobami6/alx-system_engineering-devops"><img width="350" src="https://github-readme-stats-plum-two.vercel.app/api/pin/?username=Ayobami6&repo=alx-system_engineering-devops&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="alx-system_engineering-devops"></a>
   <a href="https://github.com/Ayobami6/CS50"><img width="350" src="https://github-readme-stats-plum-two.vercel.app/api/pin/?username=Ayobami6&repo=CS50&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="CS50"></a>
 </p>
+  </details>
 
-**Projects I've Contributed To**
-
+<details>
+<summary>
+<strong>Projects I've Contributed To:</strong>
+</summary>
 <p align="left">
 <a href="https://github.com/LOVE-DOCTOR/MultiTrain"><img width="350" src="https://github-readme-stats-plum-two.vercel.app/api/pin/?username=LOVE-DOCTOR&repo=MultiTrain&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="MultiTrain"></a>
 <a href="https://github.com/bregman-arie/devops-exercises"><img width="350" src="https://github-readme-stats-plum-two.vercel.app/api/pin/?username=bregman-arie&repo=devops-exercises&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="devops-exercises"></a>
+ <a href="https://github.com/NUCCASJNR/AirBnB_clone"><img width="350" src="https://github-readme-stats-plum-two.vercel.app/api/pin/?username=NUCCASJNR&repo=AirBnB_clone&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="AirBnB_clone"></a>
+ <a href="https://github.com/Budabos/sorting_algorithms"><img width="350" src="https://github-readme-stats-plum-two.vercel.app/api/pin/?username=Budabos&repo=sorting_algorithms&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="sorting_algorithms"></a>
 </p>
+ </details>
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a>
 
