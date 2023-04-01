@@ -6,7 +6,7 @@
   </a>
 </h1>
 
-![A passionate Data Scientist, Analyst and Software Engineer Trainee from Nigeria ](https://pbs.twimg.com/profile_banners/1403660854193803267/1650353181/1080x360)
+![News24](news24.gif)
 
 I Studied statistics in college it's why I'm so passionate about data and machine learning
 
