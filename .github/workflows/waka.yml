@@ -1,20 +1,16 @@
 name: Waka Readme
 
 on:
-  push:
-    branches: [master]
   schedule:
-    - cron: "0 9 * * *" # Runs at 4am EST (UTC - 5)
+    - cron: '15 */12 * * *'
   workflow_dispatch:
+  
 jobs:
   update-readme:
-    name: WakaHS - Update GitHub Profile
+    name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v2
-      - name: WakaHS - Update GitHub Profile
-        uses: fishjump/WakaHS@master
+      - uses: miermontoto/waka-readme-stats@master
         with:
-          gh_token: ${{ secrets.GH_TOKEN }}
-          waka_api_key: ${{ secrets.WAKA_API_KEY }}
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
