@@ -116,11 +116,10 @@ Skills: Ms Excel, Data Analytics, Python, Rstudio, IBM Spss, Tableau, SQL
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-<!-- Markdown -->
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=radical)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ayobami6&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)
+<!-- ![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ayobami6&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true) -->
 
 ![GitHub metrics](https://metrics.lecoq.io/Ayobami6)
 
