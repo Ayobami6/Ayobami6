@@ -113,6 +113,10 @@ Skills: Ms Excel, Data Analytics, Python, Rstudio, IBM Spss, Tableau, SQL
 ![GitHub stats](https://github-readme-stats-plum-two.vercel.app/api?username=Ayobami6&show_icons=true&count_private=true&theme=radical)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Ayobami6&theme=radical)](https://git.io/streak-stats)
+ 
+<!-- Markdown -->
+
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=radical)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ayobami6&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)
 
