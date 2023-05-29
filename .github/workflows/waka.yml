@@ -1,15 +1,20 @@
-name: Wakatime Charts
+name: Waka Readme
 
 on:
-  workflow_dispatch:
+  push:
+    branches: [master]
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 9 * * *" # Runs at 4am EST (UTC - 5)
+  workflow_dispatch:
 jobs:
-  update-charts:
-    name: Update wakatime stats charts
+  update-readme:
+    name: WakaHS - Update GitHub Profile
     runs-on: ubuntu-latest
     steps:
-      - uses: dvjn/wakatime-charts@master
+      - name: Checkout repository
+        uses: actions/checkout@v2
+      - name: WakaHS - Update GitHub Profile
+        uses: fishjump/WakaHS@master
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }} # only required if using the action in repository other than profile
+          gh_token: ${{ secrets.GH_TOKEN }}
+          waka_api_key: ${{ secrets.WAKA_API_KEY }}
