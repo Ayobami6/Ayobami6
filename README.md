@@ -115,6 +115,11 @@ Skills: Ms Excel, Data Analytics, Python, Rstudio, IBM Spss, Tableau, SQL
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Ayobami6&theme=radical)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
+
+```text
+Sublime Text Config   7 mins          █████████████████████████   100.00 %
+```
+
 <!--END_SECTION:waka-->
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=radical)
