@@ -59,6 +59,10 @@ Skills: Ms Excel, Data Analytics, Python, Rstudio, IBM Spss, Tableau, SQL
 <!--START_SECTION:waka-->
 
 ```text
+From: 28 May 2023 - To: 29 May 2023
+
+Total Time: 7 mins
+
 Sublime Text Config   7 mins          █████████████████████████   100.00 %
 ```
 
