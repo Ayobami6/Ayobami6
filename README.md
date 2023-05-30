@@ -8,14 +8,7 @@
 
 ![News24](news24.gif)
 
-I Studied statistics in college it's why I'm so passionate about data and machine learning
-
-Skills: Ms Excel, Data Analytics, Python, Rstudio, IBM Spss, Tableau, SQL
-
-- 🔭 I’m currently working on Python django project
-- 🌱 I’m currently learning React for advance web development
-- 👯 I’m looking to collaborate on Machine Learning project, AI and Software development
-- 💬 Ask me about Data Analysis, Python, Data Visualization, Machine learning
+Software Engineer Trainee @ [Alx_africa](https://www.alxafrica.com/software-engineering/)
 
 #### 📫 How to reach me:
 
@@ -55,6 +48,7 @@ Skills: Ms Excel, Data Analytics, Python, Rstudio, IBM Spss, Tableau, SQL
 </div>
   
 -------
+📋 **In Short**
 ```python
 ayo = {
     "full_name": "Ayobami Alaran",
