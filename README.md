@@ -48,7 +48,7 @@ Software Engineer Trainee @ [Alx_africa](https://www.alxafrica.com/software-engi
 </div>
   
 -------
-📋 **In Short**
+📋 *A little bit more about me*
 ```python
 ayo = {
     "full_name": "Ayobami Alaran",
@@ -65,9 +65,9 @@ ayo = {
         "database": ["Postgres", "Sqlite3", "Mysql"],
         "data_science": ["Tableau", "TensorFlow", "Sckit-learn", "Powerbi"]
     },
-    "education": ["Coursera", "Udacity", "edx", "Google"],
+    "education": ["Coursera", "Udacity", "Edx", "Google", "Udemy", "LinkedIn Learning"],
     "current_focus": "Be better than yesterday!",
-    "fun_fact": "To me programmers are the greatest artist of all time!"
+    "fun_fact": "To me programmers are the greatest artists of all time!"
 }
 
 
