@@ -53,6 +53,15 @@ Skills: Ms Excel, Data Analytics, Python, Rstudio, IBM Spss, Tableau, SQL
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
 <a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
 </div>
+ 
+📊 **Weekly coding breakdown**
+<!--START_SECTION:waka-->
+
+```text
+Sublime Text Config   7 mins          █████████████████████████   100.00 %
+```
+
+<!--END_SECTION:waka-->
 
 # Main projects
 <details>
@@ -113,14 +122,6 @@ Skills: Ms Excel, Data Analytics, Python, Rstudio, IBM Spss, Tableau, SQL
 ![GitHub stats](https://github-readme-stats-plum-two.vercel.app/api?username=Ayobami6&show_icons=true&count_private=true&theme=radical)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Ayobami6&theme=radical)](https://git.io/streak-stats)
-
-<!--START_SECTION:waka-->
-
-```text
-Sublime Text Config   7 mins          █████████████████████████   100.00 %
-```
-
-<!--END_SECTION:waka-->
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=radical)
 
