@@ -91,18 +91,18 @@ print(Ayo(**ayo))
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 May 2023 - To: 31 May 2023
+From: 28 May 2023 - To: 01 June 2023
 
-Total Time: 7 hrs 49 mins
+Total Time: 8 hrs 28 mins
 
-Python                4 hrs 16 mins   █████████████▓░░░░░░░░░░░   54.58 %
-JavaScript            1 hr 48 mins    █████▓░░░░░░░░░░░░░░░░░░░   23.02 %
-HTML                  50 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.69 %
-C                     23 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.95 %
-Text                  15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 %
-Sublime Text Config   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
-JSON                  6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
-Markdown              2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
+Python                4 hrs 28 mins   █████████████▒░░░░░░░░░░░   52.89 %
+JavaScript            1 hr 48 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.27 %
+HTML                  1 hr 6 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   12.99 %
+C                     23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 %
+Text                  15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
+Markdown              12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
+Sublime Text Config   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
+JSON                  6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
 ```
 
 <!--END_SECTION:waka-->
