@@ -90,7 +90,7 @@ print(Ayo(**ayo))
 📊 **Weekly coding breakdown**
 <!--START_SECTION:waka-->
 
-```text
+```txt
 From: 28 May 2023 - To: 01 June 2023
 
 Total Time: 8 hrs 28 mins
