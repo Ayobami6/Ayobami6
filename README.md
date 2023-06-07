@@ -87,10 +87,10 @@ class Ayo:
 print(Ayo(**ayo))
 ```
 -------
-📊 **Weekly coding breakdown**
+📊 **Weekly coding timme**
 <!--START_SECTION:waka-->
 
-```python
+```ruby
 From: 30 May 2023 - To: 06 June 2023
 
 Total Time: 27 hrs 49 mins
