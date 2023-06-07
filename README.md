@@ -90,7 +90,7 @@ print(Ayo(**ayo))
 📊 **Weekly coding timme**
 <!--START_SECTION:waka-->
 
-```ruby
+```python
 From: 30 May 2023 - To: 06 June 2023
 
 Total Time: 27 hrs 49 mins
