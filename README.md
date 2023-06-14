@@ -87,7 +87,7 @@ class Ayo:
 print(Ayo(**ayo))
 ```
 -------
-📊 **Weekly coding timme**
+📊 **Weekly coding time**
 <!--START_SECTION:waka-->
 
 ```python
