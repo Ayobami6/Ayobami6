@@ -163,7 +163,7 @@ Docker                25 mins         ▒░░░░░░░░░░░░░
 <a href="https://github.com/bregman-arie/devops-exercises"><img width="350" src="https://github-readme-stats-plum-two.vercel.app/api/pin/?username=bregman-arie&repo=devops-exercises&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="devops-exercises"></a>
  <a href="https://github.com/NUCCASJNR/AirBnB_clone"><img width="350" src="https://github-readme-stats-plum-two.vercel.app/api/pin/?username=NUCCASJNR&repo=AirBnB_clone&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="AirBnB_clone"></a>
  <a href="https://github.com/Budabos/sorting_algorithms"><img width="350" src="https://github-readme-stats-plum-two.vercel.app/api/pin/?username=Budabos&repo=sorting_algorithms&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="sorting_algorithms"></a>
-  <a href="https://github.com/mindsdb/mindsdb"><img width="350" src="https://github-readme-stats-plum-two.vercel.app/api/pin/?username=Budabos&repo=mindsdb&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="mindsdb"></a>
+  <a href="https://github.com/mindsdb/mindsdb"><img width="350" src="https://github-readme-stats-plum-two.vercel.app/api/pin/?username=mindsdb&repo=mindsdb&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="mindsdb"></a>
 </p>
  </details>
 
