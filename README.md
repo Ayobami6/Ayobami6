@@ -127,7 +127,13 @@ Docker                25 mins         ▒░░░░░░░░░░░░░
 </summary>
 <p align="left">
   <a href="https://github.com/Ayobami6/simple-shell"><img width="350" src="https://github-readme-stats-plum-two.vercel.app/api/pin/?username=Ayobami6&repo=simple-shell&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="simple-shell"></a>
-  <a href="https://github.com/Ayobami6/peers"><img width="350" src="https://github-readme-stats-plum-two.vercel.app/api/pin/?username=Ayobami6&repo=peers&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="peers"></a>
+  <a href="https://github.com/Ayobami6/Peersonline"><img width="350" src="https://github-readme-stats-plum-two.vercel.app/api/pin/?username=Ayobami6&repo=Peersonline&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Peersonline"></a>
+  <a href="https://github.com/Ayobami6/monty"><img width="350" src="https://github-readme-stats-plum-two.vercel.app/api/pin/?username=Ayobami6&repo=monty&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="monty"></a>
+  <a href="https://github.com/Ayobami6/AirBnB_clone"><img width="350" src="https://github-readme-stats-plum-two.vercel.app/api/pin/?username=Ayobami6&repo=AirBnB_clone&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="AirBnB_clone"></a>
+  <a href="https://github.com/Ayobami6/AirBnB_clone_v2"><img width="350" src="https://github-readme-stats-plum-two.vercel.app/api/pin/?username=Ayobami6&repo=AirBnB_clone_v2&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="AirBnB_clone_v2"></a>
+  <a href="https://github.com/Ayobami6/AirBnB_clone_v3"><img width="350" src="https://github-readme-stats-plum-two.vercel.app/api/pin/?username=Ayobami6&repo=AirBnB_clone_v3&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="AirBnB_clone_v3"></a>
+  <a href="https://github.com/Ayobami6/AirBnB_clone_v4"><img width="350" src="https://github-readme-stats-plum-two.vercel.app/api/pin/?username=Ayobami6&repo=AirBnB_clone_v4&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="AirBnB_clone_v4"></a>
+  <a href="https://github.com/Ayobami6/binary_trees"><img width="350" src="https://github-readme-stats-plum-two.vercel.app/api/pin/?username=Ayobami6&repo=binary_trees&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="binary_trees"></a>
 </p>
   </details>
 
