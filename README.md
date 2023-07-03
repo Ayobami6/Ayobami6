@@ -134,6 +134,8 @@ Docker                25 mins         ▒░░░░░░░░░░░░░
   <a href="https://github.com/Ayobami6/AirBnB_clone_v3"><img width="350" src="https://github-readme-stats-plum-two.vercel.app/api/pin/?username=Ayobami6&repo=AirBnB_clone_v3&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="AirBnB_clone_v3"></a>
   <a href="https://github.com/Ayobami6/AirBnB_clone_v4"><img width="350" src="https://github-readme-stats-plum-two.vercel.app/api/pin/?username=Ayobami6&repo=AirBnB_clone_v4&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="AirBnB_clone_v4"></a>
   <a href="https://github.com/Ayobami6/binary_trees"><img width="350" src="https://github-readme-stats-plum-two.vercel.app/api/pin/?username=Ayobami6&repo=binary_trees&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="binary_trees"></a>
+  <a href="https://github.com/Ayobami6/Peers_Conway-GOL"><img width="350" src="https://github-readme-stats-plum-two.vercel.app/api/pin/?username=Ayobami6&repo=Peers_Conway-GOL&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Peers_Conway-GOL"></a>
+  <a href="https://github.com/Ayobami6/sms_backend_assessment"><img width="350" src="https://github-readme-stats-plum-two.vercel.app/api/pin/?username=Ayobami6&repo=sms_backend_assessment&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="sms_backend_assessment"></a>
 </p>
   </details>
 
@@ -145,8 +147,10 @@ Docker                25 mins         ▒░░░░░░░░░░░░░
 <p align="left">
   <a href="https://github.com/Ayobami6/Hands-On-Practice"><img width="350" src="https://github-readme-stats-plum-two.vercel.app/api/pin/?username=Ayobami6&repo=Hands-On-Practice&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Hands-On-Practice"></a>
   <a href="https://github.com/Ayobami6/alx-low_level_programming"><img width="350" src="https://github-readme-stats-plum-two.vercel.app/api/pin/?username=Ayobami6&repo=alx-low_level_programming&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="alx-low_level_programming"></a>
+  <a href="https://github.com/Ayobami6/alx-higher_level_programming"><img width="350" src="https://github-readme-stats-plum-two.vercel.app/api/pin/?username=Ayobami6&repo=alx-higher_level_programming&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="alx-higher_level_programming"></a>
   <a href="https://github.com/Ayobami6/alx-system_engineering-devops"><img width="350" src="https://github-readme-stats-plum-two.vercel.app/api/pin/?username=Ayobami6&repo=alx-system_engineering-devops&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="alx-system_engineering-devops"></a>
   <a href="https://github.com/Ayobami6/CS50"><img width="350" src="https://github-readme-stats-plum-two.vercel.app/api/pin/?username=Ayobami6&repo=CS50&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="CS50"></a>
+  <a href="https://github.com/Ayobami6/learn_python"><img width="350" src="https://github-readme-stats-plum-two.vercel.app/api/pin/?username=Ayobami6&repo=learn_python&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="learn_python"></a>
 </p>
   </details>
 
