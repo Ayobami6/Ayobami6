@@ -163,10 +163,9 @@ Docker                25 mins         ▒░░░░░░░░░░░░░
 <a href="https://github.com/bregman-arie/devops-exercises"><img width="350" src="https://github-readme-stats-plum-two.vercel.app/api/pin/?username=bregman-arie&repo=devops-exercises&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="devops-exercises"></a>
  <a href="https://github.com/NUCCASJNR/AirBnB_clone"><img width="350" src="https://github-readme-stats-plum-two.vercel.app/api/pin/?username=NUCCASJNR&repo=AirBnB_clone&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="AirBnB_clone"></a>
  <a href="https://github.com/Budabos/sorting_algorithms"><img width="350" src="https://github-readme-stats-plum-two.vercel.app/api/pin/?username=Budabos&repo=sorting_algorithms&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="sorting_algorithms"></a>
+  <a href="https://github.com/mindsdb/mindsdb"><img width="350" src="https://github-readme-stats-plum-two.vercel.app/api/pin/?username=Budabos&repo=mindsdb&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="mindsdb"></a>
 </p>
  </details>
-
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a>
 
 -------
 [![trophy](https://github-profile-trophy.vercel.app/?username=Ayobami6&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
