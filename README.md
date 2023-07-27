@@ -8,7 +8,7 @@
 
 ![News24](news24.gif)
 
-Software Engineer Trainee @ [Alx_africa](https://www.alxafrica.com/software-engineering/)
+Software Engineer
 
 #### 📫 How to reach me:
 
