@@ -59,10 +59,12 @@ ayo = {
     "technologies": {
         "backend": {
             "python": ["Django", "Flask", "FastApi"],
+            "Js": ["Nodejs"],
+            "Java": ["Spring boot"]
         },
-        "frontend": ["Html", "CSS", "Bootstrap", "Javascript"],
-        "devops": ["GCP", "Docker", "VPS", "Linux", "Nginx"],
-        "database": ["Postgres", "Sqlite3", "Mysql"],
+        "frontend": ["Html", "CSS", "Bootstrap", "Javascript", "react"],
+        "devops": ["GCP", "Docker", "VPS", "Linux", "Nginx", "Kubernetes", "Travis CI", "Github Action"],
+        "database": ["Postgres", "Sqlite3", "Mysql", "Mongodb", "Redis"],
         "data_science": ["Tableau", "TensorFlow", "Sckit-learn", "Powerbi"]
     },
     "education": ["Coursera", "Udacity", "Edx", "Google", "Udemy", "LinkedIn Learning"],
