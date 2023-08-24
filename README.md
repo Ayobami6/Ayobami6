@@ -54,11 +54,11 @@ ayo = {
     "full_name": "Ayobami Alaran",
     "pronouns": "He | Him",
     "college_degree": "Statistics",
-    "programming_lang": ["Python", "C", "Javascript", "Bash", "R"],
+    "programming_lang": ["Python", "C", "Javascript", "Bash", "R", "Java", "Typescript"],
     "interest": ["Machine Learning", "AI", "Software Development"],
     "technologies": {
         "backend": {
-            "python": ["Django", "Flask", "FastApi"],
+            "python": ["Django", "FastApi"],
             "Js": ["Nodejs"],
             "Java": ["Spring boot"]
         },
