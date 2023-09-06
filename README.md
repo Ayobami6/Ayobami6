@@ -93,16 +93,16 @@ print(Ayo(**ayo))
 <!--START_SECTION:waka-->
 
 ```python
-From: 28 August 2023 - To: 04 September 2023
+From: 29 August 2023 - To: 05 September 2023
 
-Total Time: 23 hrs 16 mins
+Total Time: 19 hrs 39 mins
 
-Python                9 hrs 58 mins   ██████████▓░░░░░░░░░░░░░░   42.89 %
-TypeScript            7 hrs 46 mins   ████████▒░░░░░░░░░░░░░░░░   33.39 %
-JavaScript            2 hrs 35 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.16 %
-HTML                  37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 %
-Ezhil                 29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
-Markdown              26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
+TypeScript            7 hrs 46 mins   ██████████░░░░░░░░░░░░░░░   39.54 %
+Python                7 hrs 32 mins   █████████▓░░░░░░░░░░░░░░░   38.36 %
+JavaScript            2 hrs 35 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.21 %
+Ezhil                 29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
+Markdown              24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
+JSON                  20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
 ```
 
 <!--END_SECTION:waka-->
