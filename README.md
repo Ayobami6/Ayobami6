@@ -10,6 +10,8 @@
 
 Software Engineer
 
+[![wakatime](https://wakatime.com/badge/user/4b8526df-fc57-4639-b60f-16ff55472497.svg)](https://wakatime.com/@4b8526df-fc57-4639-b60f-16ff55472497)
+
 #### 📫 How to reach me:
 
 <a href="https://discord.gg/B83d9xzg" target="_blank"><img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/> &nbsp; <a href="https://twitter.com/Ayobami_A96" target="_blank"><img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/> &nbsp; <a href="https://www.linkedin.com/in/ayobami-alaran/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/> &nbsp; <a href="mailto:ayobamidele006@gmail.com" target="_blank"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
