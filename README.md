@@ -111,16 +111,16 @@ print(Ayo(**ayo))
 <!--START_SECTION:waka-->
 
 ```python
-From: 20 November 2023 - To: 27 November 2023
+From: 21 November 2023 - To: 28 November 2023
 
-Total Time: 25 hrs
+Total Time: 24 hrs 17 mins
 
-Python       13 hrs 41 mins  █████████████▓░░░░░░░░░░░   54.72 %
-HTML         10 hrs 2 mins   ██████████░░░░░░░░░░░░░░░   40.14 %
-Astro        40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
-Other        17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
-Markdown     9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
-TypeScript   7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
+Python     13 hrs 41 mins  ██████████████░░░░░░░░░░░   56.36 %
+HTML       10 hrs 2 mins   ██████████▒░░░░░░░░░░░░░░   41.34 %
+Other      17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
+Markdown   9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
+Astro      5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+Git        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
