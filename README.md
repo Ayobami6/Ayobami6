@@ -111,7 +111,7 @@ print(Ayo(**ayo))
 <!--START_SECTION:waka-->
 
 ```python
-From: 15 December 2023 - To: 22 December 2023
+From: 16 December 2023 - To: 23 December 2023
 
 Total Time: 38 hrs 32 mins
 
