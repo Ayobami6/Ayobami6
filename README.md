@@ -111,16 +111,16 @@ print(Ayo(**ayo))
 <!--START_SECTION:waka-->
 
 ```python
-From: 03 January 2024 - To: 10 January 2024
+From: 04 January 2024 - To: 11 January 2024
 
-Total Time: 16 hrs 11 mins
+Total Time: 21 hrs 11 mins
 
-Python       6 hrs 23 mins   ██████████░░░░░░░░░░░░░░░   39.45 %
-HTML         5 hrs 25 mins   ████████▒░░░░░░░░░░░░░░░░   33.49 %
-Text         2 hrs 24 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.87 %
-Bash         40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 %
-YAML         28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
-Docker       24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
+Python       9 hrs 5 mins    ██████████▓░░░░░░░░░░░░░░   42.93 %
+HTML         7 hrs 29 mins   █████████░░░░░░░░░░░░░░░░   35.36 %
+Text         2 hrs 24 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.36 %
+Bash         40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 %
+YAML         29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
+Docker       24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
 ```
 
 <!--END_SECTION:waka-->
