@@ -111,16 +111,16 @@ print(Ayo(**ayo))
 <!--START_SECTION:waka-->
 
 ```python
-From: 07 March 2024 - To: 14 March 2024
+From: 08 March 2024 - To: 15 March 2024
 
-Total Time: 26 hrs 24 mins
+Total Time: 21 hrs 22 mins
 
-Python       18 hrs 22 mins  █████████████████▒░░░░░░░   69.54 %
-HTML         6 hrs 52 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.06 %
-SQL          21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
-CSS          21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
-JavaScript   14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
-Other        6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+Python       14 hrs 57 mins  █████████████████▒░░░░░░░   69.97 %
+HTML         5 hrs 18 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.84 %
+SQL          21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
+CSS          21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
+JavaScript   14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
+JSON         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
 ```
 
 <!--END_SECTION:waka-->
