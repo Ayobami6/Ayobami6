@@ -99,19 +99,6 @@ JSON          27 mins         ▒░░░░░░░░░░░░░░░�
 
  -------
 # Main projects
-<details>
-<summary>
-  <strong> Data Science and ML Case Study Projects: </strong>
-</summary>
-<p align="left">
-<a href="https://github.com/Ayobami6/Youtube-Analysis"><img width="350" src="https://github-readme-stats-plum-two.vercel.app/api/pin/?username=Ayobami6&repo=Youtube-Analysis&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Data-Science-Youtube-Analysis"></a>
-  <a href="https://github.com/Ayobami6/Tweet-Data-Analysis"><img width="350" src="https://github-readme-stats-plum-two.vercel.app/api/pin/?username=Ayobami6&repo=Tweet-Data-Analysis&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Tweet-Data-Analysis"></a>
-    <a href="https://github.com/Ayobami6/Communicating_Findings_With_Viz"><img width="350" src="https://github-readme-stats-plum-two.vercel.app/api/pin/?username=Ayobami6&repo=Communicating_Findings_With_Viz&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Communicating_Findings_With_Viz"></a>
-  <a href="https://github.com/Ayobami6/ProjectCollaboration.github.io"><img width="350" src="https://github-readme-stats-plum-two.vercel.app/api/pin/?username=Ayobami6&repo=ProjectCollaboration.github.io&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="ProjectCollaboration.github.io"></a>
-  <a href="https://github.com/Ayobami6/Data_Detective"><img width="350" src="https://github-readme-stats-plum-two.vercel.app/api/pin/?username=Ayobami6&repo=Data_Detective&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Data_Detective"></a>
-  <a href="https://github.com/Ayobami6/Exploratory-Data-Analysis-in-Finance"><img width="350" src="https://github-readme-stats-plum-two.vercel.app/api/pin/?username=Ayobami6&repo=Exploratory-Data-Analysis-in-Finance&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Exploratory-Data-Analysis-in-Finance"></a>
-</p>
-  </details>
 
 <details>
 <summary>
@@ -131,6 +118,19 @@ JSON          27 mins         ▒░░░░░░░░░░░░░░░�
 </p>
   </details>
 
+<details>
+<summary>
+  <strong> Data Science and ML Case Study Projects: </strong>
+</summary>
+<p align="left">
+<a href="https://github.com/Ayobami6/Youtube-Analysis"><img width="350" src="https://github-readme-stats-plum-two.vercel.app/api/pin/?username=Ayobami6&repo=Youtube-Analysis&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Data-Science-Youtube-Analysis"></a>
+  <a href="https://github.com/Ayobami6/Tweet-Data-Analysis"><img width="350" src="https://github-readme-stats-plum-two.vercel.app/api/pin/?username=Ayobami6&repo=Tweet-Data-Analysis&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Tweet-Data-Analysis"></a>
+    <a href="https://github.com/Ayobami6/Communicating_Findings_With_Viz"><img width="350" src="https://github-readme-stats-plum-two.vercel.app/api/pin/?username=Ayobami6&repo=Communicating_Findings_With_Viz&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Communicating_Findings_With_Viz"></a>
+  <a href="https://github.com/Ayobami6/ProjectCollaboration.github.io"><img width="350" src="https://github-readme-stats-plum-two.vercel.app/api/pin/?username=Ayobami6&repo=ProjectCollaboration.github.io&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="ProjectCollaboration.github.io"></a>
+  <a href="https://github.com/Ayobami6/Data_Detective"><img width="350" src="https://github-readme-stats-plum-two.vercel.app/api/pin/?username=Ayobami6&repo=Data_Detective&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Data_Detective"></a>
+  <a href="https://github.com/Ayobami6/Exploratory-Data-Analysis-in-Finance"><img width="350" src="https://github-readme-stats-plum-two.vercel.app/api/pin/?username=Ayobami6&repo=Exploratory-Data-Analysis-in-Finance&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Exploratory-Data-Analysis-in-Finance"></a>
+</p>
+  </details>
   
 <details>
 <summary>
@@ -162,13 +162,22 @@ JSON          27 mins         ▒░░░░░░░░░░░░░░░�
 -------
 [![trophy](https://github-profile-trophy.vercel.app/?username=Ayobami6&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats-plum-two.vercel.app/api/top-langs/?username=Ayobami6&theme=radical&langs_count=8&layout=compact&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,HTML)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
 
 ![GitHub stats](https://github-readme-stats-plum-two.vercel.app/api?username=Ayobami6&show_icons=true&count_private=true&theme=radical)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Ayobami6&theme=radical)](https://git.io/streak-stats)
+
+
+[![Top Langs](https://github-readme-stats-plum-two.vercel.app/api/top-langs/?username=Ayobami6&theme=radical&langs_count=8&layout=compact&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,HTML)](https://github.com/anuraghazra/github-readme-stats)
   
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=radical)
+
+
+</div>
+
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31ho2xjpfdxbdibf34brjmp67lru&cover_image=true&theme=default&show_offline=false&bar_color_cover=true" /></div>
+
 
 <!-- ![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ayobami6&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true) -->
 
@@ -176,6 +185,5 @@ JSON          27 mins         ▒░░░░░░░░░░░░░░░�
 
  <br/>
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31ho2xjpfdxbdibf34brjmp67lru&cover_image=true&theme=default&show_offline=false&bar_color_cover=true" /></div>
 
 ![Profile views](https://gpvc.arturio.dev/Ayobami6)
