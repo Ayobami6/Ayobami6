@@ -65,6 +65,7 @@ Software Engineer
 <a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="50" /></a>  
 </div>
 
+-------
 # 📋Latest Blog Posts
 <!-- BLOGPOST:START -->
 - [How to Master Your Tech Craft](https://aythedataguy.hashnode.dev/how-to-master-your-tech-craft)
@@ -75,7 +76,6 @@ Software Engineer
 <!-- BLOGPOST:END -->
 -------
 
--------
 📊 **My Weekly Coding Time**
 <!--START_SECTION:waka-->
 
