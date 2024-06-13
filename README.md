@@ -67,6 +67,11 @@ Software Engineer
 
 # 📋Latest Blog Posts
 <!-- BLOGPOST:START -->
+- [How to Master Your Tech Craft](https://aythedataguy.hashnode.dev/how-to-master-your-tech-craft)
+- [The Top 5 Programming Languages: How to Choose Your First Among Them as a Beginner](https://aythedataguy.hashnode.dev/the-top-5-programming-languages-how-to-choose-your-first-among-them-as-a-beginner)
+- [Writing an Encryption Script Using Fernet Cryptography in Python](https://aythedataguy.hashnode.dev/writing-an-encryption-script-using-fernet-cryptography-in-python)
+- [Peers: Empowering ALX Software Engineers to Learn and Collaborate](https://aythedataguy.hashnode.dev/peers-empowering-alx-software-engineers-to-learn-and-collaborate-6e0c1efaca0f)
+- [Hash Table Implementation In C](https://aythedataguy.hashnode.dev/hash-table-implementation-in-c)
 <!-- BLOGPOST:END -->
 -------
 
