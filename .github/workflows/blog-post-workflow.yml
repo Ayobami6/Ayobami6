@@ -17,5 +17,6 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "BLOGPOST"
+          max_post_count: 8
           commit_message: "Updated readme with the latest Hashnode Blog data"
-          feed_list: "https://feedly.com/i/subscription/feed//author/ayobami/https://www.freecodecamp.org/news/rss/, https://aythedataguy.hashnode.dev/rss.xml"
+          feed_list: "https://feedly.com/i/subscription/feed//author/ayobami/https://www.freecodecamp.org/news/rss, https://aythedataguy.hashnode.dev/rss.xml"
