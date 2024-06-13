@@ -73,6 +73,9 @@ Software Engineer
 - [Writing an Encryption Script Using Fernet Cryptography in Python](https://aythedataguy.hashnode.dev/writing-an-encryption-script-using-fernet-cryptography-in-python)
 - [Peers: Empowering ALX Software Engineers to Learn and Collaborate](https://aythedataguy.hashnode.dev/peers-empowering-alx-software-engineers-to-learn-and-collaborate-6e0c1efaca0f)
 - [Hash Table Implementation In C](https://aythedataguy.hashnode.dev/hash-table-implementation-in-c)
+- [Dynamic Memory Allocation in C](https://aythedataguy.hashnode.dev/dynamic-memory-allocation-in-c-4652108f3edb)
+- [Pointers In C](https://aythedataguy.hashnode.dev/pointers-in-c-94ccbf544a79)
+- [Recursion in C](https://aythedataguy.hashnode.dev/recursion-in-c-237688f041c5)
 <!-- BLOGPOST:END -->
 -------
 
