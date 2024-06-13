@@ -168,22 +168,12 @@ JSON          27 mins         ▒░░░░░░░░░░░░░░░�
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Ayobami6&theme=radical)](https://git.io/streak-stats)
 
-
 [![Top Langs](https://github-readme-stats-plum-two.vercel.app/api/top-langs/?username=Ayobami6&theme=radical&langs_count=8&layout=compact&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,HTML)](https://github.com/anuraghazra/github-readme-stats)
   
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=radical)
-
 
 </div>
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31ho2xjpfdxbdibf34brjmp67lru&cover_image=true&theme=default&show_offline=false&bar_color_cover=true" /></div>
 
 
-<!-- ![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ayobami6&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true) -->
-
-![GitHub metrics](https://metrics.lecoq.io/Ayobami6)
-
- <br/>
-
-
-![Profile views](https://gpvc.arturio.dev/Ayobami6)
