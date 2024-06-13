@@ -68,14 +68,14 @@ Software Engineer
 -------
 # 📋Latest Blog Posts
 <!-- BLOGPOST:START -->
-- [How to Master Your Tech Craft](https://aythedataguy.hashnode.dev/how-to-master-your-tech-craft)
-- [The Top 5 Programming Languages: How to Choose Your First Among Them as a Beginner](https://aythedataguy.hashnode.dev/the-top-5-programming-languages-how-to-choose-your-first-among-them-as-a-beginner)
-- [Writing an Encryption Script Using Fernet Cryptography in Python](https://aythedataguy.hashnode.dev/writing-an-encryption-script-using-fernet-cryptography-in-python)
-- [Peers: Empowering ALX Software Engineers to Learn and Collaborate](https://aythedataguy.hashnode.dev/peers-empowering-alx-software-engineers-to-learn-and-collaborate-6e0c1efaca0f)
-- [Hash Table Implementation In C](https://aythedataguy.hashnode.dev/hash-table-implementation-in-c)
-- [Dynamic Memory Allocation in C](https://aythedataguy.hashnode.dev/dynamic-memory-allocation-in-c-4652108f3edb)
-- [Pointers In C](https://aythedataguy.hashnode.dev/pointers-in-c-94ccbf544a79)
-- [Recursion in C](https://aythedataguy.hashnode.dev/recursion-in-c-237688f041c5)
+- [Free Linux Crash Course with Labs](https://www.freecodecamp.org/news/free-linux-crash-course-with-labs/)
+- [How to Use Viewing Patterns in Your Website Designs](https://www.freecodecamp.org/news/how-to-use-viewing-patterns-in-your-website-design/)
+- [Learn Three.js By Building Five Projects](https://www.freecodecamp.org/news/learn-threejs-by-building-five-projects/)
+- [Next-Gen Large Language Models: The Retrieval-Augmented Generation &lpar;RAG&rpar; Handbook](https://www.freecodecamp.org/news/retrieval-augmented-generation-rag-handbook/)
+- [Learn High-Level System Design by Building a YouTube Clone](https://www.freecodecamp.org/news/learn-high-level-system-design-by-building-a-youtube-clone/)
+- [Learn Python for Data Science – Hands-on Projects with EDA, AB Testing &amp; Business Intelligence](https://www.freecodecamp.org/news/learn-python-for-data-science-hands-on-projects-with-eda-ab-testing-business-intelligence/)
+- [How to Fix Common Python Installation Errors on macOS](https://www.freecodecamp.org/news/how-to-fix-python-installation-errors-on-mac/)
+- [How to Write Unit Tests in Python – with Example Test Code](https://www.freecodecamp.org/news/unit-testing-in-python/)
 <!-- BLOGPOST:END -->
 -------
 
