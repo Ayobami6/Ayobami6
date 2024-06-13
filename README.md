@@ -64,50 +64,14 @@ Software Engineer
 <a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" /></a>  
 <a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="50" /></a>  
 </div>
-  
+
+# 📋Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 -------
-📋 *A little bit more about me*
-```python
-ayo = {
-    "full_name": "Ayobami Alaran",
-    "pronouns": "He | Him",
-    "college_degree": "Statistics",
-    "programming_lang": ["Python", "C", "Javascript", "Bash", "R", "Java", "Typescript"],
-    "interest": ["Machine Learning", "AI", "Software Development"],
-    "technologies": {
-        "backend": {
-            "python": ["Django", "FastApi"],
-            "Js": ["Nodejs"],
-            "Java": ["Spring boot"]
-        },
-        "frontend": ["Html", "CSS", "Bootstrap", "Javascript", "react"],
-        "devops": ["GCP", "Docker", "VPS", "Linux", "Nginx", "Kubernetes", "Travis CI", "Github Action"],
-        "database": ["Postgres", "Sqlite3", "Mysql", "Mongodb", "Redis"],
-        "data_science": ["Tableau", "TensorFlow", "Sckit-learn", "Powerbi"]
-    },
-    "education": ["Coursera", "Udacity", "Edx", "Google", "Udemy", "LinkedIn Learning"],
-    "current_focus": "Be better than yesterday!",
-    "fun_fact": "To me programmers are the greatest artists of all time!"
-}
 
-
-class Ayo:
-    def __init__(self, **kwargs):
-        for k, v in kwargs.items():
-            setattr(self, k, v)
-
-    def __str__(self):
-        return f"Hello there 👋, My name is {self.full_name}, Nice to meet you!"
-
-    def __call__(self, **kwargs):
-        for k, v in kwargs.items():
-            setattr(self, k, v)
-
-
-print(Ayo(**ayo))
-```
 -------
-📊 **Weekly coding time**
+📊 **My Weekly Coding Time**
 <!--START_SECTION:waka-->
 
 ```python
