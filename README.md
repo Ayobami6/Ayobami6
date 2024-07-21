@@ -83,16 +83,16 @@ Software Engineer
 <!--START_SECTION:waka-->
 
 ```python
-From: 12 July 2024 - To: 19 July 2024
+From: 13 July 2024 - To: 20 July 2024
 
-Total Time: 36 hrs 7 mins
+Total Time: 39 hrs 56 mins
 
-Go                21 hrs 41 mins  ███████████████░░░░░░░░░░   60.02 %
-Python            6 hrs 15 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.32 %
-Protocol Buffer   2 hrs 20 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.48 %
-Markdown          2 hrs 12 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.12 %
-YAML              1 hr 20 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 %
-Makefile          48 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
+Go                25 hrs 48 mins  ████████████████░░░░░░░░░   64.63 %
+Python            6 hrs 15 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.68 %
+Protocol Buffer   2 hrs 58 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 %
+Markdown          2 hrs 11 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.50 %
+Makefile          1 hr 17 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 %
+HTML              23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
 ```
 
 <!--END_SECTION:waka-->
