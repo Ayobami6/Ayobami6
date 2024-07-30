@@ -83,16 +83,16 @@ Software Engineer
 <!--START_SECTION:waka-->
 
 ```python
-From: 21 July 2024 - To: 28 July 2024
+From: 22 July 2024 - To: 29 July 2024
 
-Total Time: 44 hrs 25 mins
+Total Time: 38 hrs 5 mins
 
-Python            21 hrs 45 mins  ████████████▒░░░░░░░░░░░░   48.99 %
-Go                7 hrs 26 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.76 %
-TypeScript        6 hrs 31 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.68 %
-JavaScript        3 hrs 12 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.24 %
-HTML              1 hr 54 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 %
-Markdown          56 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
+Python            19 hrs 22 mins  ████████████▓░░░░░░░░░░░░   50.87 %
+TypeScript        6 hrs 31 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.12 %
+Go                5 hrs 11 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.63 %
+JavaScript        3 hrs 12 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 %
+HTML              2 hrs 10 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.73 %
+JSON              34 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
 ```
 
 <!--END_SECTION:waka-->
