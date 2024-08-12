@@ -68,7 +68,6 @@ Software Engineer
 -------
 # 📋Latest Blog Posts
 <!-- BLOGPOST:START -->
-- [How To Set Up TypeORM DataSource in Your NestJS Project](https://www.freecodecamp.org/news/how-to-setup-typeorm-datasource-nestjs-app/)
 - [How to Master Your Tech Craft](https://aythedataguy.hashnode.dev/how-to-master-your-tech-craft)
 - [The Top 5 Programming Languages: How to Choose Your First Among Them as a Beginner](https://aythedataguy.hashnode.dev/the-top-5-programming-languages-how-to-choose-your-first-among-them-as-a-beginner)
 - [Writing an Encryption Script Using Fernet Cryptography in Python](https://aythedataguy.hashnode.dev/writing-an-encryption-script-using-fernet-cryptography-in-python)
@@ -76,6 +75,7 @@ Software Engineer
 - [Hash Table Implementation In C](https://aythedataguy.hashnode.dev/hash-table-implementation-in-c)
 - [Dynamic Memory Allocation in C](https://aythedataguy.hashnode.dev/dynamic-memory-allocation-in-c-4652108f3edb)
 - [Pointers In C](https://aythedataguy.hashnode.dev/pointers-in-c-94ccbf544a79)
+- [Recursion in C](https://aythedataguy.hashnode.dev/recursion-in-c-237688f041c5)
 <!-- BLOGPOST:END -->
 -------
 
