@@ -103,9 +103,11 @@ Bash              1 hr 20 mins    ▓░░░░░░░░░░░░░░�
 <strong>Sotware Development Projects:</strong>
 
 <p align="left">
+  <a href="https://github.com/Ayobami6/pickitup"><img width="350" src="https://github-readme-stats-plum-two.vercel.app/api/pin/?username=Ayobami6&repo=pickitup&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="sparky"></a>
+  <a href="https://github.com/Ayobami6/pickitup_v2"><img width="350" src="https://github-readme-stats-plum-two.vercel.app/api/pin/?username=Ayobami6&repo=pickitup_v2&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="sparky-frontend"></a>
   <a href="https://github.com/Ayobami6/sparky"><img width="350" src="https://github-readme-stats-plum-two.vercel.app/api/pin/?username=Ayobami6&repo=sparky&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="sparky"></a>
   <a href="https://github.com/Ayobami6/sparky-frontend"><img width="350" src="https://github-readme-stats-plum-two.vercel.app/api/pin/?username=Ayobami6&repo=sparky-frontend&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="sparky-frontend"></a>
-  <a href="https://github.com/sparky-technologies/restaurant-go"><img width="350" src="https://github-readme-stats-plum-two.vercel.app/api/pin/?username=sparky-technologies&repo=restaurant-go&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="restaurantGo"></a>
+  
   <a href="https://github.com/Ayobami6/sparky_utils"><img width="350" src="https://github-readme-stats-plum-two.vercel.app/api/pin/?username=Ayobami6&repo=sparky_utils&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="sparky_utils"></a>
   <a href="https://github.com/Ayobami6/portfolio_api"><img width="350" src="https://github-readme-stats-plum-two.vercel.app/api/pin/?username=Ayobami6&repo=portfolio_api&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="simple-shell"></a>
   <a href="https://github.com/Ayobami6/MeetDevs"><img width="350" src="https://github-readme-stats-plum-two.vercel.app/api/pin/?username=Ayobami6&repo=MeetDevs&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="simple-shell"></a>
@@ -118,7 +120,6 @@ Bash              1 hr 20 mins    ▓░░░░░░░░░░░░░░�
   <a href="https://github.com/Ayobami6/AirBnB_clone_v4"><img width="350" src="https://github-readme-stats-plum-two.vercel.app/api/pin/?username=Ayobami6&repo=AirBnB_clone_v4&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="AirBnB_clone_v4"></a>
   <a href="https://github.com/Ayobami6/binary_trees"><img width="350" src="https://github-readme-stats-plum-two.vercel.app/api/pin/?username=Ayobami6&repo=binary_trees&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="binary_trees"></a>
   <a href="https://github.com/Ayobami6/Peers_Conway-GOL"><img width="350" src="https://github-readme-stats-plum-two.vercel.app/api/pin/?username=Ayobami6&repo=Peers_Conway-GOL&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Peers_Conway-GOL"></a>
-  <a href="https://github.com/Ayobami6/sms_backend_assessment"><img width="350" src="https://github-readme-stats-plum-two.vercel.app/api/pin/?username=Ayobami6&repo=sms_backend_assessment&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="sms_backend_assessment"></a>
 </p>
 
 <details>
