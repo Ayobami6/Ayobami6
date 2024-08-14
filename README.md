@@ -100,10 +100,8 @@ Bash              1 hr 20 mins    ▓░░░░░░░░░░░░░░�
  -------
 # Main projects
 
-<details>
-<summary>
 <strong>Sotware Development Projects:</strong>
-</summary>
+
 <p align="left">
   <a href="https://github.com/Ayobami6/sparky"><img width="350" src="https://github-readme-stats-plum-two.vercel.app/api/pin/?username=Ayobami6&repo=sparky&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="sparky"></a>
   <a href="https://github.com/Ayobami6/sparky-frontend"><img width="350" src="https://github-readme-stats-plum-two.vercel.app/api/pin/?username=Ayobami6&repo=sparky-frontend&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="sparky-frontend"></a>
@@ -122,7 +120,6 @@ Bash              1 hr 20 mins    ▓░░░░░░░░░░░░░░�
   <a href="https://github.com/Ayobami6/Peers_Conway-GOL"><img width="350" src="https://github-readme-stats-plum-two.vercel.app/api/pin/?username=Ayobami6&repo=Peers_Conway-GOL&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Peers_Conway-GOL"></a>
   <a href="https://github.com/Ayobami6/sms_backend_assessment"><img width="350" src="https://github-readme-stats-plum-two.vercel.app/api/pin/?username=Ayobami6&repo=sms_backend_assessment&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="sms_backend_assessment"></a>
 </p>
-  </details>
 
 <details>
 <summary>
