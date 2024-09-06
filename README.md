@@ -97,11 +97,39 @@ Bash              28 mins         ▒░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
+
+-------
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ayobami6&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
+  
+</div>
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ayobami6&bg_color=131112&color=edcf07&line=cf1794&point=a2ecc9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<div align="center">
+
+![GitHub stats](https://github-readme-stats-plum-two.vercel.app/api?username=Ayobami6&show_icons=true&count_private=true&theme=radical)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Ayobami6&theme=radical)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats-plum-two.vercel.app/api/top-langs/?username=Ayobami6&theme=radical&langs_count=8&layout=compact&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,HTML)](https://github.com/anuraghazra/github-readme-stats)
+  
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=radical)
+
+</div>
+
+
  -------
 # Main projects
 
-<strong>Sotware Development Projects:</strong>
 
+<details>
+<summary>
+  <strong>Sotware Development Projects:</strong>
+</summary>
+  
 <p align="left">
   <a href="https://github.com/Ayobami6/pickitup"><img width="350" src="https://github-readme-stats-plum-two.vercel.app/api/pin/?username=Ayobami6&repo=pickitup&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="sparky"></a>
   <a href="https://github.com/Ayobami6/pickitup_v2"><img width="350" src="https://github-readme-stats-plum-two.vercel.app/api/pin/?username=Ayobami6&repo=pickitup_v2&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="sparky-frontend"></a>
@@ -120,7 +148,8 @@ Bash              28 mins         ▒░░░░░░░░░░░░░░�
   <a href="https://github.com/Ayobami6/AirBnB_clone_v4"><img width="350" src="https://github-readme-stats-plum-two.vercel.app/api/pin/?username=Ayobami6&repo=AirBnB_clone_v4&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="AirBnB_clone_v4"></a>
   <a href="https://github.com/Ayobami6/binary_trees"><img width="350" src="https://github-readme-stats-plum-two.vercel.app/api/pin/?username=Ayobami6&repo=binary_trees&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="binary_trees"></a>
   <a href="https://github.com/Ayobami6/Peers_Conway-GOL"><img width="350" src="https://github-readme-stats-plum-two.vercel.app/api/pin/?username=Ayobami6&repo=Peers_Conway-GOL&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Peers_Conway-GOL"></a>
-</p>
+</p> 
+</details>
 
 <details>
 <summary>
@@ -163,27 +192,7 @@ Bash              28 mins         ▒░░░░░░░░░░░░░░�
 </p>
  </details>
 
--------
-<div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ayobami6&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
-  
-</div>
-
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ayobami6&bg_color=131112&color=edcf07&line=cf1794&point=a2ecc9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<div align="center">
-
-![GitHub stats](https://github-readme-stats-plum-two.vercel.app/api?username=Ayobami6&show_icons=true&count_private=true&theme=radical)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Ayobami6&theme=radical)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats-plum-two.vercel.app/api/top-langs/?username=Ayobami6&theme=radical&langs_count=8&layout=compact&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,HTML)](https://github.com/anuraghazra/github-readme-stats)
-  
-![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=radical)
-
-</div>
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31ho2xjpfdxbdibf34brjmp67lru&cover_image=true&theme=default&show_offline=false&bar_color_cover=true" /></div>
 
