@@ -83,16 +83,16 @@ Software Engineer
 <!--START_SECTION:waka-->
 
 ```python
-From: 28 September 2024 - To: 05 October 2024
+From: 29 September 2024 - To: 06 October 2024
 
-Total Time: 10 hrs 16 mins
+Total Time: 7 hrs 26 mins
 
-Python       6 hrs 58 mins   █████████████████░░░░░░░░   67.93 %
-Go           2 hrs 49 mins   ███████░░░░░░░░░░░░░░░░░░   27.47 %
-Makefile     7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
-Bash         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
-Git Config   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
-TOML         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
+Python       6 hrs 13 mins   █████████████████████░░░░   83.74 %
+Go           45 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.14 %
+Makefile     7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
+Bash         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
+Git Config   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
+TOML         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
 ```
 
 <!--END_SECTION:waka-->
