@@ -83,16 +83,16 @@ Software Engineer
 <!--START_SECTION:waka-->
 
 ```python
-From: 06 November 2024 - To: 13 November 2024
+From: 07 November 2024 - To: 14 November 2024
 
-Total Time: 40 hrs 13 mins
+Total Time: 41 hrs 5 mins
 
-Python       21 hrs 1 min    █████████████░░░░░░░░░░░░   52.29 %
-Go           13 hrs 15 mins  ████████▒░░░░░░░░░░░░░░░░   32.96 %
-YAML         2 hrs 19 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.80 %
-Bash         1 hr 25 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 %
-Docker       54 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
-Text         28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
+Python       18 hrs 41 mins  ███████████▒░░░░░░░░░░░░░   45.48 %
+Go           15 hrs 56 mins  █████████▓░░░░░░░░░░░░░░░   38.78 %
+YAML         2 hrs 19 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.68 %
+Bash         1 hr 41 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 %
+Docker       54 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 %
+Text         27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
 ```
 
 <!--END_SECTION:waka-->
