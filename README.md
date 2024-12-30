@@ -83,7 +83,7 @@ Software Engineer
 <!--START_SECTION:waka-->
 
 ```python
-From: 21 December 2024 - To: 28 December 2024
+From: 22 December 2024 - To: 29 December 2024
 
 Total Time: 2 hrs 5 mins
 
