@@ -83,13 +83,16 @@ Software Engineer
 <!--START_SECTION:waka-->
 
 ```python
-From: 25 December 2024 - To: 01 January 2025
+From: 26 December 2024 - To: 02 January 2025
 
-Total Time: 2 hrs 5 mins
+Total Time: 2 hrs 22 mins
 
-JavaScript   1 hr 54 mins    ███████████████████████░░   91.41 %
-JSON         6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.89 %
-CSS          4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 %
+JavaScript   1 hr 54 mins    ████████████████████░░░░░   80.27 %
+Markdown     20 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.32 %
+CSS          4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 %
+Python       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
+C++          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
 ```
 
 <!--END_SECTION:waka-->
