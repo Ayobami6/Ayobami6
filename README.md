@@ -198,6 +198,6 @@ Docker       7 mins          ▒░░░░░░░░░░░░░░░░
 
 
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31ho2xjpfdxbdibf34brjmp67lru&cover_image=true&theme=default&show_offline=false&bar_color_cover=true" /></div>
+<div align="center"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ho2xjpfdxbdibf34brjmp67lru&cover_image=true&theme=default&show_offline=false&bar_color_cover=true" /></div>
 
 
