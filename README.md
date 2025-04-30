@@ -197,7 +197,9 @@ JavaScript   11 mins         ▒░░░░░░░░░░░░░░░░
  </details>
 
 
+<div align="center" style="margin-top: 10px"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31nws3el6apmunz6dndj3mfx55ly&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" /></div>
 
-<div align="center"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ho2xjpfdxbdibf34brjmp67lru&cover_image=true&theme=default&show_offline=false&bar_color_cover=true" /></div>
-
+<!-- <div align="center">
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31nws3el6apmunz6dndj3mfx55ly&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31nws3el6apmunz6dndj3mfx55ly&redirect=true)
+</div> -->
 
