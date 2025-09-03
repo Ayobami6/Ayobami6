@@ -87,16 +87,16 @@ Software Engineer
 <!--START_SECTION:waka-->
 
 ```python
-From: 25 August 2025 - To: 01 September 2025
+From: 26 August 2025 - To: 02 September 2025
 
-Total Time: 31 hrs 24 mins
+Total Time: 36 hrs 14 mins
 
-Python       28 hrs 16 mins  ██████████████████████▓░░   90.06 %
-YAML         1 hr 24 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 %
-Docker       59 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
-Other        15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
-Text         11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
-Bash         9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
+Python       29 hrs 32 mins  ████████████████████▒░░░░   81.51 %
+YAML         2 hrs 50 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 %
+Docker       1 hr 14 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 %
+Markdown     1 hr 7 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
+Bash         35 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
+Text         20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
 ```
 
 <!--END_SECTION:waka-->
