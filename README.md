@@ -87,16 +87,16 @@ Software Engineer
 <!--START_SECTION:waka-->
 
 ```python
-From: 01 October 2025 - To: 08 October 2025
+From: 02 October 2025 - To: 09 October 2025
 
-Total Time: 30 hrs 33 mins
+Total Time: 30 hrs 44 mins
 
-Python       27 hrs 44 mins  ██████████████████████▓░░   90.79 %
-Bash         1 hr 1 min      █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 %
-Makefile     31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
+Python       28 hrs 19 mins  ███████████████████████░░   92.10 %
+Bash         1 hr 3 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
+Makefile     29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
 TOML         18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
-HTML         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
-Text         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
+HTML         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
+Text         11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
 ```
 
 <!--END_SECTION:waka-->
