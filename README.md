@@ -87,16 +87,16 @@ Software Engineer
 <!--START_SECTION:waka-->
 
 ```python
-From: 12 October 2025 - To: 19 October 2025
+From: 13 October 2025 - To: 20 October 2025
 
-Total Time: 39 hrs 44 mins
+Total Time: 42 hrs 46 mins
 
-Python       22 hrs 13 mins  ██████████████░░░░░░░░░░░   55.90 %
-Rust         8 hrs 31 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.46 %
-TypeScript   4 hrs 20 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.92 %
-Bash         1 hr 23 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 %
-Markdown     48 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
-Git Config   45 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
+Python       26 hrs 13 mins  ███████████████▒░░░░░░░░░   61.29 %
+Rust         8 hrs 17 mins   █████░░░░░░░░░░░░░░░░░░░░   19.39 %
+TypeScript   4 hrs 20 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.15 %
+Bash         1 hr 29 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 %
+Go           43 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
+Git Config   30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
 ```
 
 <!--END_SECTION:waka-->
