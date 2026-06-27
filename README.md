@@ -87,16 +87,16 @@ Software Engineer
 <!--START_SECTION:waka-->
 
 ```python
-From: 18 June 2026 - To: 25 June 2026
+From: 19 June 2026 - To: 26 June 2026
 
-Total Time: 59 hrs 43 mins
+Total Time: 62 hrs 37 mins
 
-Python     28 hrs 16 mins        ████████████░░░░░░░░░░░░░   47.34 %
-Other      20 hrs 34 mins        ████████▓░░░░░░░░░░░░░░░░   34.44 %
-Markdown   7 hrs 3 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.80 %
-YAML       1 hr 9 mins           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
-Bash       59 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
-Text       32 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
+Python     28 hrs 34 mins        ███████████▒░░░░░░░░░░░░░   45.63 %
+Other      24 hrs 30 mins        █████████▓░░░░░░░░░░░░░░░   39.13 %
+Markdown   5 hrs 44 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.16 %
+YAML       1 hr 12 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
+Bash       41 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
+Text       32 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
 ```
 
 <!--END_SECTION:waka-->
