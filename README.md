@@ -87,16 +87,16 @@ Software Engineer
 <!--START_SECTION:waka-->
 
 ```python
-From: 18 August 2026 - To: 25 August 2026
+From: 19 August 2026 - To: 26 August 2026
 
-Total Time: 65 hrs 12 mins
+Total Time: 63 hrs 34 mins
 
-Other        29 hrs 22 mins        ███████████▒░░░░░░░░░░░░░   45.04 %
-Python       22 hrs 1 min          ████████▒░░░░░░░░░░░░░░░░   33.77 %
-Markdown     3 hrs 51 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.91 %
-Bash         2 hrs 24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 %
-JavaScript   1 hr 53 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
-Rust         1 hr 30 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 %
+Other        30 hrs 29 mins        ████████████░░░░░░░░░░░░░   47.96 %
+Python       19 hrs 33 mins        ███████▓░░░░░░░░░░░░░░░░░   30.76 %
+Markdown     4 hrs 48 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 %
+JavaScript   2 hrs 35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 %
+Bash         2 hrs 13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 %
+Rust         1 hr 30 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
 ```
 
 <!--END_SECTION:waka-->
